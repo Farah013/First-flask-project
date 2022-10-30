@@ -1,0 +1,11 @@
+FLASK:
+Flask is a python framework that is used for developing web applications using python.
+Advantages of using Flask framework are: There is a built-in development server and a fast debugger provided.
+
+For the ML model we're using KERAS.
+What is Keras?
+Keras is a deep learning API of TensorFlow. It follows the best practices for reducing cognitive load. 
+In this example, we're using VGG16 model which is a pre-build image recognitionthat we can get with Keras.
+
+What is VGG16?
+VGG-16 is a convolutional neural network that is 16 layers deep. You can load a pretrained version of the network trained on more than a million images from the ImageNet database [1]. The pretrained network can classify images into 1000 object categories, such as keyboard, mouse, pencil, and many animals.
